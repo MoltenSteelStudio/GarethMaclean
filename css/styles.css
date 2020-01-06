@@ -1,3 +1,7 @@
+/* ------------------------------------------------------- */
+/* ------------------ Tag Based Styling ------------------ */
+/* ------------------------------------------------------- */
+
   /* Body Styles */
   body
   {
@@ -46,6 +50,13 @@
     color: #5f6769;
   }
 
+  a:hover
+  {
+    font-style: oblique;
+    font-family: sans-serif;
+    color: #4a5150;
+  }
+
   /* Table Data styles*/
   th
   {
@@ -84,3 +95,19 @@
     font-family: sans-serif;
     color: #dfcdc3;
   }
+
+/* --------------------------------------------------------- */
+/* ------------------ class Based Styling ------------------ */
+/* --------------------------------------------------------- */
+
+/* use classes for specific changes and define them with a .(period) */
+
+.img-Circular
+{
+border-radius: 50%;
+}
+
+.p-centered
+{
+  text-align: center;
+}
