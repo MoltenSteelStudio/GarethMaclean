@@ -1,0 +1,86 @@
+  /* Body Styles */
+  body
+  {
+    background-color: #3c4245;
+  }
+
+  /* Horizontal Rule style */
+  hr
+  {
+    border-color: #5f6769;
+    border-style: none;
+    border-top-style: dotted;
+    height: 1px;
+    border-width: 5px;
+    width: 90%;
+  }
+
+  p
+  {
+    font-family: sans-serif;
+    color: #dfcdc3;
+  }
+
+  /* Header styles */
+  h1
+  {
+    color: #719192;
+  }
+
+  h3
+  {
+    color: #709090;
+  }
+
+  /* List Item styles */
+  li
+  {
+    font-family: sans-serif;
+    color: #dfcdc3;
+  }
+
+  /* hyperlink styles */
+  a
+  {
+    font-family: sans-serif;
+    color: #5f6769;
+  }
+
+  /* Table Data styles*/
+  th
+  {
+    font-family: sans-serif;
+    color: #719192;
+  }
+
+  td
+  {
+    font-family: sans-serif;
+    color: #dfcdc3;
+  }
+
+  /* Form Styles */
+  textarea
+  {
+    border-style: groove;
+    border-width: 1px;
+    border-color: #4a5150;
+    background-color: #5f6769;
+  }
+
+  input
+  {
+    font-size: 16px;
+    font-family: sans-serif;
+    color: #dfcdc3;
+    border-style: groove;
+    border-width: 1px;
+    border-color: #4a5150;
+    background-color: #5f6769;
+  }
+
+  label
+  {
+    font-family: sans-serif;
+    color: #dfcdc3;
+  }
