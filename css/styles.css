@@ -227,7 +227,8 @@ border-radius: 50%;
 {
   width: 40%;
   margin: auto 30% auto 30%;
-
+  border: 1px;
+  border-style: double;
   font-family: 'Exo 2', sans-serif;
   color: #719192;
 }
