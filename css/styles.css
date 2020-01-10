@@ -241,3 +241,11 @@ border-radius: 50%;
   font-family: 'Exo 2', sans-serif;
   color: #719192;
 }
+.tbl-center-styling-light-60
+{
+  width: 60%;
+  margin: auto 20% auto 20%;
+
+  font-family: 'Exo 2', sans-serif;
+  color: #719192;
+}
