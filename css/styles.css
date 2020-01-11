@@ -56,6 +56,18 @@ a:link
   color: #5f6769;
   text-decoration: none;
 }
+a:visited
+{
+  font-family: 'Quicksand', sans-serif;
+  color: #464a4a;
+  text-decoration: none;
+}
+a:hover
+{
+  font-family: 'Quicksand', sans-serif;
+  color: #719192;
+  text-decoration: none;
+}
 /* Form Styles */
 textarea
 {
@@ -248,4 +260,32 @@ border-radius: 50%;
 
   font-family: 'Exo 2', sans-serif;
   color: #719192;
+}
+.tbl-center-styling-light
+{
+  width: 100%;
+
+  font-family: 'Exo 2', sans-serif;
+  color: #719192;
+}
+
+/* ---------- Horizontal Rule ----------- */
+.hr-dotted-30
+{
+  border-color: #5f6769;
+  border-style: none;
+  border-top-style: dotted;
+  height: 2px;
+  border-width: 2px;
+  width: 30%;
+}
+/* ---------- Horizontal Rule ----------- */
+.hr-dashed-30
+{
+  border-color: #5f6769;
+  border-style: none;
+  border-top-style: dashed;
+  height: 2px;
+  border-width: 2px;
+  width: 30%;
 }
